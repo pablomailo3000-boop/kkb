@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = "==3.11.12"
 dependencies = [
+    "invoke==2.2.0",
     "loguru==0.7.3",
+    "python-dotenv==1.1.0",
 ]
